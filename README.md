@@ -1,16 +1,52 @@
-# donation
+# DoN4t1on
 
-A new Flutter project.
+## Description
+
+DoN4t1on is a mobile application built using Flutter.
+
+## Screenshots
+
+![Donation App UI](https://raw.githubusercontent.com/DoN4t1on/web/main/donation-web.jpg)
+
+## Technologies Used
+
+- Flutter
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+```bash
+git clone https://github.com/DoN4t1on/DoN4t1on-flutter.git
+```
+
+2. Navigate into the project directory:
+
+```bash
+cd DoN4t1on-flutter
+```
+
+3. Get dependencies:
+
+```bash
+flutter pub get
+```
+### Development
+
+To run the app in development mode, use:
+
+```bash
+flutter run
+```
+
+## Contributions
+
+Contributions are welcome
